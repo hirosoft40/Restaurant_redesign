@@ -4,8 +4,8 @@
 <h1> What I used</h1>
 <ul>
 <li>Bootstrap4</li>
-<li>html</li>
-<li>css</li>
+<li>HTML</li>
+<li>CSS</li>
 </ul>
 <h2>After : index page</h2>
 <img src = 'screenshots/index.png' width="700px">
